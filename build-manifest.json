@@ -1,0 +1,31 @@
+{
+  "format": "expo-public-build-v1",
+  "builtAt": "2026-11-06T23:54:24.268Z",
+  "base": "/expo-atelier/",
+  "name": "EXPO ATELIER",
+  "projectId": "expo-atelier",
+  "routes": [
+    "/",
+    "/projekty",
+    "/model/signal-09",
+    "/model/line-18",
+    "/model/island-36",
+    "/model/pavilion-64",
+    "/konfigurator",
+    "/rozwiazania",
+    "/materialy",
+    "/proces",
+    "/galeria",
+    "/faq",
+    "/kontakt",
+    "/prywatnosc",
+    "/warunki",
+    "/studio"
+  ],
+  "privateFileCount": 13,
+  "sourceFileCount": 57,
+  "publicAssetCount": 26,
+  "appSha256": "4399c6f2dfafdb229bc0ccbb01973093dd9a8f734615cf0280ff590beb5ff6a8",
+  "sourceSha256": "b86e06516ff4ebc8dbe824d9e2843e6d5f642dc19261c6be753988dd272fbe91",
+  "sourceEncoding": "AES-256-GCM / PBKDF2-SHA-256 600000 / gzip JSON file map"
+}
