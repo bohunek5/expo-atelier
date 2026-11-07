@@ -1,6 +1,6 @@
 {
   "format": "expo-public-build-v1",
-  "builtAt": "2026-11-07T01:05:28.059Z",
+  "builtAt": "2026-11-07T01:08:23.697Z",
   "base": "/expo-atelier/",
   "name": "EXPO ATELIER",
   "projectId": "expo-atelier",
@@ -42,7 +42,7 @@
   "privateFileCount": 24,
   "sourceFileCount": 94,
   "publicAssetCount": 30,
-  "appSha256": "f7af8502c9bc2d0f939a101aeccb76d353919829e8afd196a449d2f795ab0266",
-  "sourceSha256": "37d130548432e4d0a24d4fbcf5eaf3e25ad7bcfa3f576ec55d57d1c187d30286",
+  "appSha256": "4a6d6658041c3fb548ab2003b00e3f503b12bd10e35f1f3cfe74778239cb8d1d",
+  "sourceSha256": "d6ca0e62373ce776d3fdd4b1a988255c24aff58087d7fc4ec20f98958d43f5f9",
   "sourceEncoding": "AES-256-GCM / PBKDF2-SHA-256 600000 / gzip JSON file map"
 }
